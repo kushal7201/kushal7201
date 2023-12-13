@@ -13,4 +13,4 @@ I'm passionate about exploring 🔭 the latest technologies and applying them to
 ![](https://github-contributor-stats.vercel.app/api?username=kushal7201&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
-![Profile views counter](https://komarev.com/ghpvc/?username=kushal7201&&style=flat-square)  
+[![](https://visitcount.itsvg.in/api?id=kushal7201&label=Profile%20Views&color=6&icon=5&pretty=true)](https://github.com/kushal7201)
