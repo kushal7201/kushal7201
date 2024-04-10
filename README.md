@@ -2,7 +2,7 @@
 I'm passionate about exploring 🔭 the latest technologies and applying them to solve problems.
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,git,html,css,figma,javascript,mysql,flask)](https://github.com/kushal7201)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,git,html,css,figma,javascript,react,mysql,flask)](https://github.com/kushal7201)
 
 # 📊 GitHub Stats:
 <span><img style="width: 39%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal7201&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Image 2"></span>
