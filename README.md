@@ -12,5 +12,7 @@ I'm passionate about exploring 🔭 the latest technologies and applying them to
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kushal7201&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
+## 📊 Recent Activity Graph
+[![Kushal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kushal7201&bg_color=000000&color=ababab&line=7e00e6&point=d1d1d1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
 
 [![](https://visitcount.itsvg.in/api?id=kushal7201&label=Profile%20Views&color=6&icon=5&pretty=true)](https://github.com/kushal7201)
