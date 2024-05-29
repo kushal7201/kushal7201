@@ -7,7 +7,7 @@ I'm passionate about exploring 🔭 the latest technologies and applying them to
 # 📊 GitHub Stats:
 <span><img style="width: 39%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal7201&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Image 2"></span>
 <span><img style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=kushal7201&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="Image 1"></span>
-<span>[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/kushal7201?cardType=github&theme=dark&preferLogin=false&Text=7FDBCA&Title=C08EE3&Background=011627)](https://git.io/awesome-stats-card)</span>
+<!--- comment ---> <span>[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/kushal7201?cardType=github&theme=dark&preferLogin=false&Text=7FDBCA&Title=C08EE3&Background=011627)](https://git.io/awesome-stats-card)</span>
 
 
 ### 🔝 Top Contributed Repo
