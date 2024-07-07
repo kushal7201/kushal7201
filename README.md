@@ -6,7 +6,7 @@ I'm passionate about exploring 🔭 the latest technologies and applying them to
 
 # 🧑‍💻 Coding Profiles:
 <a href="https://leetcode.com/u/devins112/" style="text-decoration: none;">
-  <img src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" style="width:50px;height:50px;border:none;">
+  <img src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" style="width:50px;height:50px;border:none;outline:none;">
 </a>
 <a href="https://www.codechef.com/users/devins" style="text-decoration: none;">
   <img src="https://cdn.simpleicons.org/codechef/B78C6F" alt="CodeChef" style="width:50px;height:50px;">
