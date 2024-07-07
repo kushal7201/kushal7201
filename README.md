@@ -18,7 +18,7 @@ I'm passionate about exploring 🔭 the latest technologies and applying them to
 
 [![](https://visitcount.itsvg.in/api?id=kushal7201&label=Profile%20Views&color=6&icon=5&pretty=true)](https://github.com/kushal7201)
 
-# 🧑‍💻 Coding Profiles:
+## 🧑‍💻 Coding Profiles:
 <p align="left">
 <a href="https://leetcode.com/u/devins112/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" /></a>
