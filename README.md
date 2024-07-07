@@ -8,7 +8,7 @@ I'm passionate about exploring 🔭 the latest technologies and applying them to
 <a href="https://leetcode.com/u/devins112/">
   <img src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" style="width:40px;height:40px;text-decoration;">
 </a>
-<a href="https://www.codechef.com/users/devins" target="blank"> >
+<a href="https://www.codechef.com/users/devins" target="blank">
   <img src="https://cdn.simpleicons.org/codechef/B78C6F" alt="CodeChef" style="width:40px;height:40px;">
 </a>
 <a href="https://www.geeksforgeeks.org/user/kushal112/" >
