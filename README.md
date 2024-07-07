@@ -4,6 +4,9 @@ I'm passionate about exploring 🔭 the latest technologies and applying them to
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,flask,react,git,html,css,figma,javascript,postman,babel,mysql,bootstrap,linux,jquery)](https://github.com/kushal7201)
 
+# 🧑‍💻 Coding Profiles:
+
+
 # 📊 GitHub Stats:
 <span><img style="width: 39%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal7201&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Image 2"></span>
 <span><img style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=kushal7201&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="Image 1"></span>
