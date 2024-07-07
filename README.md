@@ -1,11 +1,7 @@
 # 💫 About Me:
 I'm passionate about exploring 🔭 the latest technologies and applying them to solve problems.
 
-<style>
-  a img{
-    border: none;
-  }
-</style>
+<link rel="stylesheet" type="text/css" href="styles.css">
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,flask,react,git,html,css,figma,javascript,postman,babel,mysql,bootstrap,linux,jquery)](https://github.com/kushal7201)
