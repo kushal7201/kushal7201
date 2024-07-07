@@ -6,9 +6,14 @@ I'm passionate about exploring 🔭 the latest technologies and applying them to
 
 # 🧑‍💻 Coding Profiles:
 <p align="left">
-<a href="https://leetcode.com/u/devins112/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditya_k_iiita" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/devins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/code-chef.svg" alt="k7aditya" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/kushal112/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="k7adiez3d" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/devins112/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/kushal112/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/devins" target="blank">
+  <img src="https://cdn.simpleicons.org/codechef/B78C6F" alt="CodeChef" style="width:40px;height:30px;">
+</a>
+
 </p>
 
 # 📊 GitHub Stats:
