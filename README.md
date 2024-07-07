@@ -5,9 +5,15 @@ I'm passionate about exploring 🔭 the latest technologies and applying them to
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,flask,react,git,html,css,figma,javascript,postman,babel,mysql,bootstrap,linux,jquery)](https://github.com/kushal7201)
 
 # 🧑‍💻 Coding Profiles:
-[![LeetCode](https://cdn.simpleicons.org/leetcode)](https://leetcode.com/u/devins112/)
-[![CodeChef](https://cdn.simpleicons.org/codechef)](https://www.codechef.com/users/devins)
-[![GeeksForGeeks](https://cdn.simpleicons.org/geeksforgeeks)](https://www.geeksforgeeks.org/user/kushal112/)
+<a href="https://leetcode.com/u/devins112/">
+  <img src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" style="width:40px;height:40px;">
+</a>
+<a href="https://www.codechef.com/users/devins">
+  <img src="https://cdn.simpleicons.org/codechef" alt="CodeChef" style="width:40px;height:40px;">
+</a>
+<a href="https://www.geeksforgeeks.org/user/kushal112/">
+  <img src="https://cdn.simpleicons.org/geeksforgeeks" alt="GeeksForGeeks" style="width:40px;height:40px;">
+</a>
 
 # 📊 GitHub Stats:
 <span><img style="width: 39%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal7201&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Image 2"></span>
