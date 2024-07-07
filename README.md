@@ -5,7 +5,7 @@ I'm passionate about exploring 🔭 the latest technologies and applying them to
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,flask,react,git,html,css,figma,javascript,postman,babel,mysql,bootstrap,linux,jquery)](https://github.com/kushal7201)
 
 # 🧑‍💻 Coding Profiles:
-<a href="https://leetcode.com/u/devins112/" style="text-decoration: none;border:none;outline:none;">
+<a href="https://leetcode.com/u/devins112/" style="text-decoration: none !important;">
   <img src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" style="width:50px;height:50px;">
 </a>
 <a href="https://www.codechef.com/users/devins" style="text-decoration: none;">
