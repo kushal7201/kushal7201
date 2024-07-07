@@ -5,14 +5,14 @@ I'm passionate about exploring 🔭 the latest technologies and applying them to
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,flask,react,git,html,css,figma,javascript,postman,babel,mysql,bootstrap,linux,jquery)](https://github.com/kushal7201)
 
 # 🧑‍💻 Coding Profiles:
-<a href="https://leetcode.com/u/devins112/" style="text-decoration: black !important;">
-  <img src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" style="width:50px;height:50px;text-decoration;">
+<a href="https://leetcode.com/u/devins112/">
+  <img src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" style="width:40px;height:40px;text-decoration;">
 </a>
-<a href="https://www.codechef.com/users/devins" style="text-decoration: none;">
-  <img src="https://cdn.simpleicons.org/codechef/B78C6F" alt="CodeChef" style="width:50px;height:50px;">
+<a href="https://www.codechef.com/users/devins" >
+  <img src="https://cdn.simpleicons.org/codechef/B78C6F" alt="CodeChef" style="width:40px;height:40px;">
 </a>
-<a href="https://www.geeksforgeeks.org/user/kushal112/" style="text-decoration: none;">
-  <img src="https://cdn.simpleicons.org/geeksforgeeks/36A952" alt="GeeksForGeeks" style="width:50px;height:50px;">
+<a href="https://www.geeksforgeeks.org/user/kushal112/" >
+  <img src="https://cdn.simpleicons.org/geeksforgeeks/36A952" alt="GeeksForGeeks" style="width:40px;height:40px;">
 </a>
 
 # 📊 GitHub Stats:
