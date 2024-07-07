@@ -1,6 +1,12 @@
 # 💫 About Me:
 I'm passionate about exploring 🔭 the latest technologies and applying them to solve problems.
 
+<style>
+  a{
+    text-decoration: none;
+  }
+</style>
+
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,flask,react,git,html,css,figma,javascript,postman,babel,mysql,bootstrap,linux,jquery)](https://github.com/kushal7201)
 
