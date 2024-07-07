@@ -2,8 +2,8 @@
 I'm passionate about exploring 🔭 the latest technologies and applying them to solve problems.
 
 <style>
-  a{
-    text-decoration: none;
+  a img{
+    border: none;
   }
 </style>
 
