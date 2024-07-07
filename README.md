@@ -8,11 +8,12 @@ I'm passionate about exploring 🔭 the latest technologies and applying them to
 <p align="left">
 <a href="https://leetcode.com/u/devins112/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/kushal112/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="40" width="40" />
+</a>
 <a href="https://www.codechef.com/users/devins" target="blank">
   <img align="center" src="https://cdn.simpleicons.org/codechef/B78C6F" alt="CodeChef" height="40" width="40">
 </a>
-<a href="https://www.geeksforgeeks.org/user/kushal112/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="40" width="40" /></a>
 </p>
 
 # 📊 GitHub Stats:
