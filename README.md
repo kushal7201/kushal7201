@@ -16,6 +16,8 @@ I'm passionate about exploring 🔭 the latest technologies and applying them to
 ## 📊 Recent Activity Graph
 [![Kushal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kushal7201&bg_color=000000&color=ababab&line=7e00e6&point=d1d1d1&area=true&hide_border=true)](https://github.com/kushal7201)
 
+[![](https://visitcount.itsvg.in/api?id=kushal7201&label=Profile%20Views&color=6&icon=5&pretty=true)](https://github.com/kushal7201)
+
 # 🧑‍💻 Coding Profiles:
 <p align="left">
 <a href="https://leetcode.com/u/devins112/" target="blank">
@@ -27,5 +29,3 @@ I'm passionate about exploring 🔭 the latest technologies and applying them to
   <img align="center" src="https://cdn.simpleicons.org/codechef/B78C6F" alt="CodeChef" height="40" width="40">
 </a>
 </p>
-
-[![](https://visitcount.itsvg.in/api?id=kushal7201&label=Profile%20Views&color=6&icon=5&pretty=true)](https://github.com/kushal7201)
