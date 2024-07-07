@@ -5,15 +5,11 @@ I'm passionate about exploring 🔭 the latest technologies and applying them to
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,flask,react,git,html,css,figma,javascript,postman,babel,mysql,bootstrap,linux,jquery)](https://github.com/kushal7201)
 
 # 🧑‍💻 Coding Profiles:
-<a href="https://leetcode.com/u/devins112/">
-  <img src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" style="width:40px;height:40px;text-decoration;">
-</a>
-<a href="https://www.codechef.com/users/devins" target="blank">
-  <img src="https://cdn.simpleicons.org/codechef/B78C6F" alt="CodeChef" style="width:40px;height:40px;">
-</a>
-<a href="https://www.geeksforgeeks.org/user/kushal112/" >
-  <img src="https://cdn.simpleicons.org/geeksforgeeks/36A952" alt="GeeksForGeeks" style="width:40px;height:40px;">
-</a>
+<p align="left">
+<a href="https://leetcode.com/u/devins112/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditya_k_iiita" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/devins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/code-chef.svg" alt="k7aditya" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/kushal112/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="k7adiez3d" height="30" width="40" /></a>
+</p>
 
 # 📊 GitHub Stats:
 <span><img style="width: 39%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal7201&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Image 2"></span>
