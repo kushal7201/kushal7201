@@ -4,7 +4,7 @@ I'm passionate about exploring 🔭 the latest technologies and applying them to
 <link rel="stylesheet" type="text/css" href="styles.css">
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,flask,react,git,html,css,figma,javascript,postman,babel,github,mysql,bootstrap,linux,jquery)](https://github.com/kushal7201)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,flask,react,aws,azure,git,html,css,figma,javascript,postman,babel,github,mysql,bootstrap,linux,jquery)](https://github.com/kushal7201)
 
 # 📊 GitHub Stats:
 <span><img style="width: 0.5vw;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal7201&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Image 2"></span>
