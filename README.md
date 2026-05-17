@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨‍💻 About Me:
 I'm passionate about exploring 🔭 the latest technologies and applying them to solve problems.
 
 <link rel="stylesheet" type="text/css" href="styles.css">
@@ -7,13 +7,11 @@ I'm passionate about exploring 🔭 the latest technologies and applying them to
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,flask,react,nodejs,express,aws,azure,git,docker,html,css,figma,tailwind,javascript,ts,postman,babel,github,mongodb,mysql,bootstrap,linux,jquery)](https://github.com/kushal7201)
 
 # 📊 GitHub Stats:
-<span><img style="width: 0.5vw;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal7201&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Image 2"></span>
-<span><img style="width: 0.5vw;" src="https://github-readme-stats.vercel.app/api?username=kushal7201&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="Image 1"></span>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kushal7201&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- <span><img style="width: 0.5vw;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal7201&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Image 2"></span>
+<span><img style="width: 0.5vw;" src="https://github-readme-stats.vercel.app/api?username=kushal7201&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="Image 1"></span> -->
 <!--- comment  <span>[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/kushal7201?cardType=github&theme=dark&preferLogin=false&Text=7FDBCA&Title=C08EE3&Background=011627)](https://git.io/awesome-stats-card)</span> --->
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kushal7201&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ## 📊 Recent Activity Graph
 [![Kushal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kushal7201&bg_color=000000&color=ababab&line=7e00e6&point=d1d1d1&area=true&hide_border=true)](https://github.com/kushal7201)
